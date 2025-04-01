@@ -23,5 +23,10 @@
     "icon": "Book",
     "name": "Alist",
     "link": "https://alist.jlen.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "音乐解析",
+    "link": "https://music.jlen.top/"
   }
 ]
