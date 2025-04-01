@@ -8,7 +8,7 @@ export const mainStore = defineStore("main", {
       coverType: "0", // 壁纸种类
       siteStartShow: true, // 建站日期显示
       musicClick: false, // 音乐链接是否跳转
-      musicIsOk: true, // 音乐是否加载完成
+      musicIsOk: false, // 音乐是否加载完成
       musicVolume: 3, // 音乐音量;
       musicOpenState: true, // 音乐面板开启状态
       backgroundShow: false, // 壁纸展示状态
