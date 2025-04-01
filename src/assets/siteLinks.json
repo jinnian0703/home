@@ -31,6 +31,11 @@
   },
   {
     "icon": "LaptopCode",
+    "name": "恋爱记录",
+    "link": "https://love.jlen.top/"
+  },
+  {
+    "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.jlen.top/"
   }
