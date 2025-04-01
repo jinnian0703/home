@@ -8,14 +8,14 @@ export const mainStore = defineStore("main", {
       coverType: "0", // 壁纸种类
       siteStartShow: true, // 建站日期显示
       musicClick: false, // 音乐链接是否跳转
-      musicIsOk: false, // 音乐是否加载完成
+      musicIsOk: true, // 音乐是否加载完成
       musicVolume: 3, // 音乐音量;
       musicOpenState: true, // 音乐面板开启状态
       backgroundShow: false, // 壁纸展示状态
       boxOpenState: false, // 盒子开启状态
       mobileOpenState: true, // 移动端开启状态
       mobileFuncState: true, // 移动端功能区开启状态
-      setOpenState: true, // 设置页面开启状态
+      setOpenState: false, // 设置页面开启状态
       playerState: true, // 当前播放状态
       playerTitle: null, // 当前播放歌曲名
       playerArtist: null, // 当前播放歌手名
