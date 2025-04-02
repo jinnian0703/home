@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.jlen.top/"
+    "link": "http://blog.jlen.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.jlen.top/"
+    "link": "http://pan.jlen.top/"
   },
   {
     "icon": "CompactDisc",
@@ -17,12 +17,12 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.jlen.top/"
+    "link": "http://nav.jlen.top/"
   },
   {
     "icon": "Book",
     "name": "Alist",
-    "link": "https://alist.jlen.top/"
+    "link": "http://alist.jlen.top/"
   },
   {
     "icon": "Heart",
@@ -32,11 +32,11 @@
   {
     "icon": "Music",
     "name": "音乐解析",
-    "link": "https://music.jlen.top/"
+    "link": "http://music.jlen.top/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.jlen.top/"
+    "link": "http://status.jlen.top/"
   }
 ]
